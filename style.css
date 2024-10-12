@@ -1,0 +1,100 @@
+.Facebook{
+margin-left: 150px;
+background-color: #4968ad;
+width: 300px;
+
+
+}
+h3{
+    color: #d0d0d0;
+}
+h3{
+    align-items: start;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    width: 600px;
+    height: 600px;
+    border-top-right-radius: 15px;
+    justify-content: center;
+    /* max-height: 500px; */
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 10px;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.5);
+    box-shadow:
+    
+}
+body{
+    background-color: #f2f5f8;
+    display: flex;
+    justify-content: center;
+    min-height: 1000px;
+    align-items: center;
+}
+
+button{
+    color: rgb(255, 255, 255);
+    background-color: #1e2c4b;
+    
+    justify-content: start;
+    align-items: center;
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+}
+*{
+    font-family: sans-serif;
+}
+/* .button{
+    display: flex;
+    justify-content: center; */
+}
+.button{
+    display: flexbox;
+    align-items: center;
+    width: 400px;
+    height: 50px;
+}
+input{
+    
+}
+.form{
+    display: flex;
+    align-items: end;
+    gap: 30px;
+    /* justify-content: space-evenly; */
+    /* order: 2; */ */
+    
+}
+p{
+    margin-left: 5px;
+}
+.register{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.login{
+display: flex;
+flex-direction: column;
+gap: 10px;
+align-items: center;
+}
+.First{
+    width: 430px;
+    height: 50px;
+    border-radius: 10px;
+}
+.First1{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+}
+.send{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+}
